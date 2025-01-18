@@ -1,5 +1,5 @@
 ﻿- ### Hi there, I'm Sudarsh Chaturvedi👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
+  
 
 
   ## I'm a   AI Researcher, Author, and Student  
